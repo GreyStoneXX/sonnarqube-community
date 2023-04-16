@@ -70,3 +70,7 @@ scripts/patches/*license*.txt
 !scripts/patches/debug_web.sh
 !scripts/patches/postgres.sh
 gherkin-features/
+
+sonarqube_logs
+postgresql_data
+sonarqube_data
