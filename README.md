@@ -2,3 +2,4 @@
 
 Proyecto para desplegar sonarqube community
 
+cambios del rm
