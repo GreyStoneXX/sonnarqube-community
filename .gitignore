@@ -74,3 +74,4 @@ gherkin-features/
 sonarqube_logs
 postgresql_data
 sonarqube_data
+sonarqube_extensions
